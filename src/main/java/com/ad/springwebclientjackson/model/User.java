@@ -1,4 +1,4 @@
-package com.ad.springwebclientjackson.model.reqres;
+package com.ad.springwebclientjackson.model;
 
 import com.fasterxml.jackson.databind.annotation.JsonDeserialize;
 import com.fasterxml.jackson.databind.annotation.JsonPOJOBuilder;
@@ -7,12 +7,12 @@ import lombok.Value;
 
 @Value
 @Builder
-@JsonDeserialize(builder = Support.SupportBuilder.class)
-public class Support {
+@JsonDeserialize(builder = User.UserBuilder.class)
+public class User {
 
-    private String url;
-    private String text;
+    private Data data;
+    private Support support;
 
     @JsonPOJOBuilder(withPrefix = "")
-    public static class SupportBuilder {}
+    public static class UserBuilder {}
 }

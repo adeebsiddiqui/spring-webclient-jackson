@@ -1,4 +1,4 @@
-package com.ad.springwebclientjackson.service.reqres;
+package com.ad.springwebclientjackson.service;
 
 import io.github.resilience4j.circuitbreaker.CircuitBreaker;
 import io.github.resilience4j.circuitbreaker.CircuitBreakerRegistry;

@@ -1,4 +1,4 @@
-package com.ad.springwebclientjackson.model.reqres;
+package com.ad.springwebclientjackson.model;
 
 import com.fasterxml.jackson.annotation.JsonProperty;
 import com.fasterxml.jackson.databind.annotation.JsonDeserialize;

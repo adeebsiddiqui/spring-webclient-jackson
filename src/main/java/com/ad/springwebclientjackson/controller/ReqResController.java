@@ -1,7 +1,7 @@
 package com.ad.springwebclientjackson.controller;
 
-import com.ad.springwebclientjackson.model.reqres.User;
-import com.ad.springwebclientjackson.service.reqres.ReqResService;
+import com.ad.springwebclientjackson.model.User;
+import com.ad.springwebclientjackson.service.ReqResService;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PathVariable;

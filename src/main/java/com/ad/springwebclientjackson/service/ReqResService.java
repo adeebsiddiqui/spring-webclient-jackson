@@ -1,6 +1,6 @@
-package com.ad.springwebclientjackson.service.reqres;
+package com.ad.springwebclientjackson.service;
 
-import com.ad.springwebclientjackson.model.reqres.User;
+import com.ad.springwebclientjackson.model.User;
 import org.springframework.stereotype.Service;
 
 @Service

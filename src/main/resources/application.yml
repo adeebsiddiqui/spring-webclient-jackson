@@ -1,5 +1,3 @@
 api:
   req-res:
     url: https://reqres.in/api
-  json-placeholder:
-    url: https://jsonplaceholder.typicode.com

@@ -1,6 +1,6 @@
-package com.ad.springwebclientjackson.service.reqres;
+package com.ad.springwebclientjackson.service;
 
-import com.ad.springwebclientjackson.model.reqres.User;
+import com.ad.springwebclientjackson.model.User;
 import io.github.resilience4j.decorators.Decorators;
 import org.springframework.http.ResponseEntity;
 import org.springframework.stereotype.Component;
