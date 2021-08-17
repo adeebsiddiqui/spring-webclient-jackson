@@ -19,7 +19,7 @@ public class ReqResController {
     }
 
     @GetMapping("/users/{userId}")
-    public ResponseEntity<User> getUserInfo(@PathVariable String userId) {
-        return ResponseEntity.ok(reqResService.retrieveUserInfo(userId));
+    public ResponseEntity<User> retrieveUser(@PathVariable String userId) {
+        return ResponseEntity.ok(reqResService.getUser(userId));
     }
 }

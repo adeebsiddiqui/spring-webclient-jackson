@@ -13,7 +13,7 @@ public class ReqResService {
     }
 
 
-    public User retrieveUserInfo(String userId) {
+    public User getUser(String userId) {
         return reqResClient.sendRequest(userId);
     }
 }
