@@ -3,9 +3,9 @@
 Learn about:
 - [Guide to Retry in Spring WebFlux](https://www.baeldung.com/spring-webflux-retry)
 
-- JsonIgnoreProperties, JsonInclude, ObjectMapper
+- [Difference between](https://stackoverflow.com/questions/39005703/jackson-annotations-difference-between-jsonignorepropertiesignoreunknown-true) `JsonIgnoreProperties(ignoreUnknown=true)` and `JsonInclude(Include.NON_EMPTY)`
 
-- Figure out what Jackson serialization and deserialization need at a bare minimum.
+- Jackson `ObjectMapper` class [examples](https://www.baeldung.com/jackson-object-mapper-tutorial)
 
 - com.fasterxml.jackson.databind.exc.InvalidDefinitionException: Cannot construct instance of `com.usaa.mv.batch.mulligan.model.UnproofedMembers` (no Creators, like default constructor, exist):
 cannot deserialize from Object value (no delegate- or property-based Creator)
