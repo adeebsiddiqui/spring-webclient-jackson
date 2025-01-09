@@ -3,6 +3,8 @@
 Learn about:
 - [Guide to Retry in Spring WebFlux](https://www.baeldung.com/spring-webflux-retry)
 
+- Jackson [@JsonProperty and @JsonAlias](https://www.concretepage.com/jackson-api/jackson-jsonproperty-and-jsonalias-example)
+
 - [Difference between](https://stackoverflow.com/questions/39005703/jackson-annotations-difference-between-jsonignorepropertiesignoreunknown-true) `JsonIgnoreProperties(ignoreUnknown=true)` and `JsonInclude(Include.NON_EMPTY)`
 
 - Jackson `ObjectMapper` class [examples](https://www.baeldung.com/jackson-object-mapper-tutorial)
