@@ -1,7 +1,7 @@
 # spring-webclient-jackson
 
 Learn about:
-- [Guide to Retry in Spring WebFlux](https://www.baeldung.com/spring-webflux-retry)
+- [Guide to Retry in Spring WebFlux](https://www.baeldung.com/spring-webflux-retry) --> [example](https://github.com/adeebsiddiqui/spring-webclient-jackson/wiki)
 
 - [Difference between](https://www.concretepage.com/jackson-api/jackson-jsonproperty-and-jsonalias-example) [@JsonProperty](https://javadoc.io/doc/com.fasterxml.jackson.core/jackson-annotations/latest/com/fasterxml/jackson/annotation/JsonProperty.html) and [@JsonAlias](https://www.javadoc.io/doc/com.fasterxml.jackson.core/jackson-annotations/latest/com/fasterxml/jackson/annotation/JsonAlias.html)
 
